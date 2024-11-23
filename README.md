@@ -42,7 +42,7 @@ This design is available under the terms of the [CERN-OHL-S](LICENSE).
 ## Acknowledgements
 
 - MCU footprint derived from [ebastler/marbastlib](https://github.com/ebastler/marbastlib/)
-- Switch footprint derived from [mikeholscher/zmk-config-mikefive](https://github.com/mikeholscher/zmk-config-mikefive/)
+- Switch footprint derived from [kicad-footprint-kailh-pg1425-x-switch](https://github.com/shikamiya/kicad-footprint-kailh-pg1425-x-switch)
 - Layout derived from ergogen source supplied for [sporkus/le_capybara_keyboard](https://github.com/sporkus/le_capybara_keyboard)
 - PCB art kindly provided by transthropology
 
