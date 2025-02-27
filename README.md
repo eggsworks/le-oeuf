@@ -29,7 +29,8 @@ Coming soon :D
 
 ## Accessories
 
-- **["Oeuf Poché"](cases/oeuf-poche.stl)** - A 3d-printable minimal case. Mounts with four self-tapping M2x4mm screws.
+- **["Oeuf Poché"](cases/oeuf-poche)** - A 3d-printable minimal case. Mounts with four self-tapping M2x4mm screws.
+- **["SK-1425"](cases/SK-1425)** - A two-part case by [seirin-blu](https://github.com/seirin-blu).
 
 ## Firmware
 
