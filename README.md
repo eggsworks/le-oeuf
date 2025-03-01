@@ -36,6 +36,10 @@ Coming soon :D
 
 ZMK firmware available from [eggsworks/zmk-config](https://github.com/eggsworks/zmk-config/)
 
+## Production files
+
+Gerbers, BOM, and centroid files have been added under [le-oeuf/production/](le-oeuf/production/). These Gerbers are optimized for production by PCBWay and may not necessarily be accepted by other manufacturers. The BOM and centroid file include only the diodes and the shift register, leaving the switches and MCU to be hand-soldered.
+
 ## License
 
 This design is available under the terms of the [CERN-OHL-S](LICENSE).
